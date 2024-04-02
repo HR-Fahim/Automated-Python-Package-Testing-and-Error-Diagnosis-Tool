@@ -1,10 +1,10 @@
-## Purpose
+# About
 
 This repository contains code to identify and resolve error-prone Python packages installed via pip. By running the provided script, users can quickly detect which packages are causing import errors and seamlessly uninstall them to maintain a stable development environment.
 
-## How to Run
+# How to Run
 
-**Execute the scripts sequentially:**
+## Execute the scripts sequentially:
 
    - Run `run.py` script:
 
@@ -21,7 +21,7 @@ This repository contains code to identify and resolve error-prone Python package
      - If you choose "yes", issue fixer code will be executed.
      - If you choose "no" or any other input, the program will exit.
 
-## Benefits
+# Benefits
 
 - **Error Detection**: Quickly identifies Python packages causing import errors, streamlining the debugging process.
 - **Efficient Troubleshooting**: Facilitates the rapid resolution of errors by providing a clear list of problematic packages.
