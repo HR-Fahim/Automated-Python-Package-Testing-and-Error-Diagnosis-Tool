@@ -1,4 +1,4 @@
-# Automated Python Package Testing and Error Diagnosis Tool
+## Purpose
 
 This repository contains code to identify and resolve error-prone Python packages installed via pip. By running the provided script, users can quickly detect which packages are causing import errors and seamlessly uninstall them to maintain a stable development environment.
 
