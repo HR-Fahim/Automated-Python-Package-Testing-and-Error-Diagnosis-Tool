@@ -12,7 +12,7 @@ This repository contains code to identify and resolve error-prone Python package
      python run.py
      ```
 
-   - Follow the prompt to decide whether to run `y.py`.
+   - Follow the prompt to decide whether to fixer code.
 
      ```bash
      Do you want to run fix the errors? (yes/no): 
