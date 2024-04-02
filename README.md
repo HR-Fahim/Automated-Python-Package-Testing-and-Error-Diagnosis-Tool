@@ -23,6 +23,8 @@ This repository contains code to identify and resolve error-prone Python package
 
 # Benefits
 
+![Screenshot](<pip error fixer.png>)
+
 - **Error Detection**: Quickly identifies Python packages causing import errors, streamlining the debugging process.
 - **Efficient Troubleshooting**: Facilitates the rapid resolution of errors by providing a clear list of problematic packages.
 - **Maintaining Stability**: Ensures a stable development environment by enabling the removal of error-prone packages with ease.
