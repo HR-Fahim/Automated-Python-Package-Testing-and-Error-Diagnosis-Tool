@@ -6,7 +6,7 @@ This repository contains code to identify and resolve error-prone Python package
 
 **Execute the scripts sequentially:**
 
-   - Run `x.py` script:
+   - Run `run.py` script:
 
      ```bash
      python run.py
